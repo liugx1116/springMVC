@@ -1,0 +1,5 @@
+# Project exclude paths
+/out/
+/springMVC-demon02/target/
+/springMVC-demon03/target/
+/springMVC-jsp/target/
