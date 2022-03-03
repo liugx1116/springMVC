@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springMVC-demon04:war">
+    <output-path>$PROJECT_DIR$/springMVC-demon04/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>springMVC-demon04</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springMVC-demon04-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springMVC-demon04:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/springMVC-demon02" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC-demon03" />
+    <file type="web" url="file://$PROJECT_DIR$/springMVC-demon04" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC-jsp" />
     <file type="web" url="file://$PROJECT_DIR$/springMVC-reset" />
   </component>
@@ -13,6 +14,7 @@
         <option value="$PROJECT_DIR$/SpringMVC-demon03/pom.xml" />
         <option value="$PROJECT_DIR$/springMVC-jsp/pom.xml" />
         <option value="$PROJECT_DIR$/springMVC-reset/pom.xml" />
+        <option value="$PROJECT_DIR$/springMVC-demon04/pom.xml" />
       </list>
     </option>
   </component>
