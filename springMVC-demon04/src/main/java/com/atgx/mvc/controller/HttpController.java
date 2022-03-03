@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 public class HttpController {
-
     @RequestMapping("/testRequestBody")
     public String testRequestBody(@RequestBody String requestBody){
         System.out.println("testRequestBody:"+requestBody);
