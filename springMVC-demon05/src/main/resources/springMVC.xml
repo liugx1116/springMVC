@@ -54,6 +54,15 @@
     <mvc:interceptors>
         <ref bean="firstInterceptor"></ref>
         <ref bean="secondInterceptor"></ref>
+        <!--<bean class="com.atguigu.mvc.interceptors.FirstInterceptor"></bean>-->
+        <!--<ref bean="firstInterceptor"></ref>-->
+        <!--
+            <mvc:interceptor>
+                <mvc:mapping path="/**"/>
+                <mvc:exclude-mapping path="/"/>
+                <ref bean="firstInterceptor"></ref>
+            </mvc:interceptor>
+        -->
     </mvc:interceptors>
 
 </beans>
